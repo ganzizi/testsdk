@@ -1,11 +1,11 @@
 {
 	"name" : "testsdk/paysdk",
-	"description" : "Corporate PAY SDK",
+	"description" : "testsdk pay sdk",
 	"type" : "library",
 	"version" : "1.0",
 	"autoload" : {
 		"psr-4" : {
-			"Corporate\\PaySDK\\" : "src/"
+			"testsdk\\paysdk\\" : "src/"
 		}
 	},
 	"license" : "Apache-2.0",
